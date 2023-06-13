@@ -1,0 +1,173 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@300&display=swap');
+
+.container {
+    background-color: #BBCAD4;
+    font-family: 'Lexend', Verdana, Tahoma, sans-serif;
+}
+
+.navbar-collapse {
+    -ms-flex-positive: 1;
+    flex-grow: 0;
+}
+
+.navbar-expand-lg {
+    justify-content: space-between;
+}
+
+ #logo {
+    width: 200px;
+ }
+
+
+ #cerca {
+font-weight: bold;
+ color: rgb(255, 255, 255); 
+ border-color: #16528E;
+ background-color: #16528E;
+ 
+}
+
+#cerca:hover {
+    background-color: #0f6cd7;
+}
+
+#icone_social {
+font-size: 40px; 
+color: #16528E;
+}
+
+#icone_social:hover {
+    color: #0f6cd7;
+}
+
+.nav-item {
+font-weight: bold;
+font-size: 16px;
+color: black;
+}
+
+
+
+ #dona_btn {
+    color: aliceblue;
+    font-weight: bold;
+    background-color: #107e1d;
+    border-radius: 1rem;
+    font-size: 20px;
+    margin-top: -60px;
+}
+
+
+.nav-link {
+    color: #16528E;
+}
+
+.dropdown-item {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+
+#listening {
+    border-radius: 1em;
+    opacity: 0.7;
+}
+
+.card {
+    border-radius: 1em;
+    
+}
+
+.card:hover {
+    transform: scale(105%);
+    box-shadow: 1px 3px 8px rgba(138, 145, 157, 0.5);
+}
+
+h3 {
+    font-size: 25px;
+}
+
+
+#banner {
+    text-align: center; 
+    font-size: 24px; 
+    color: rgb(255, 255, 255); 
+    overflow: hidden;
+    font-weight: bold; 
+    border-radius: 2em; 
+}
+
+
+
+#brief_info {
+    margin-top: 50px;
+    font-size: 18px;
+    text-align: center;
+    color: black;
+}
+
+#foto_obiettivo, #foto_musica, #foto_possibilità {
+    height: 195px;
+    border-radius: 1em;
+}
+
+#caption {
+    background-color: black; 
+    opacity: 0.9;
+    border-radius: 1em;
+}
+
+.notizie {
+    font-size: 20px; 
+    justify-content: center; 
+    text-align: center; 
+    font-weight: bold;
+}
+   
+
+.card_footer {
+    background-color: #16528E;
+    text-align: center; 
+    font-size: 20px; 
+    font-weight: bold; 
+    text-align: center; 
+    font-size: 20px; 
+    color: #fff;
+}
+
+.social_icons {
+    display: flex;
+    justify-content: center;
+}
+
+i:hover {
+    color: rgb(97, 97, 97);
+}
+
+#contatti {
+    color: white;
+}
+
+#contatti:hover {
+    color: rgb(97, 97, 97);
+}
+
+.card-body .nav-link {
+    font-size: 20px; 
+    color: #fff;
+}
+
+#documentazione {
+    font-size: 20px;
+    color: white;
+}
+
+#documentazione:hover {
+color: rgb(97, 97, 97);
+}
+
+#mail {
+    color: #fff;
+}
+
